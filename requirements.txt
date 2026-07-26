@@ -1,12 +1,5 @@
-
-h5py
-keras
-Markdown
-matplotlib
-numpy
-pandas
-scikit-learn
-scipy
-seaborn
 streamlit
 tensorflow
+scikit-learn
+pandas
+numpy
