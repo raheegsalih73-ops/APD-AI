@@ -39,8 +39,9 @@ if st.session_state.page == 'home':
             st.rerun()
             
     with col_img:
-        st.image("C:\Users\pc\Desktop\mycardial\photo.png", 
+        st.image("photo.png"), 
                  caption="Intelligent Medical Decision Support System", use_container_width=True)
+        
 
 
 # ==========================================
